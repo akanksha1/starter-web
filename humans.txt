@@ -1,7 +1,7 @@
 # humanstxt.org/
 # The humans responsible & technology colophon
 # doing changes in master
-# After rebase change master. another
+# After rebase change master. another change into master.
 
 
 # doing changes in sub branch.
