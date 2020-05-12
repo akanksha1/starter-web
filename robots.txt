@@ -8,4 +8,5 @@
 # doing seven change in master.
 
 # doing six change in sub branch six change in sub branch
+# checking branch mergeing
 User-agent: *
